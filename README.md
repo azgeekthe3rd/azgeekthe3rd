@@ -1,6 +1,6 @@
 ### azgeekthe3rd
 
-Saudi student in Leeds and London. 🇸🇦🏴󠁧󠁢󠁥󠁮󠁧󠁿
+Saudi student based in Leeds and London. 🇸🇦🏴󠁧󠁢󠁥󠁮󠁧󠁿
 
 I learn by making things, and I make a lot of things.
 
