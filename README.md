@@ -1,6 +1,6 @@
 ### azgeekthe3rd
 
-Saudi student in Leeds and London. 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇸🇦
+Saudi student in Leeds and London. 🇸🇦🏴󠁧󠁢󠁥󠁮󠁧󠁿
 
 I learn by making things, and I make a lot of things.
 
@@ -10,4 +10,4 @@ Deeply in love with Emacs and Arch Linux.
 
 ---
 
-~ _*Built with love.*_ ~
+~ _*Built with love.*_ ~ *<3*
